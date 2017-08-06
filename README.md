@@ -4,10 +4,10 @@ Note: Make sure prior you have internet sharing setup or make sure to have your 
 
 # Manual Setup with SSH
 
-Step 1. SSH into your Nano/Tetra
-Step 2. Type wget https://github.com/Ei8htbits/SSHWebClient/blob/master/install.sh
-Step 3. Type ./install.sh
-Step 4. Let the script do its thing and you're set.
+Step 1. SSH into your Nano/Tetra <br>
+Step 2. Type wget https://github.com/Ei8htbits/SSHWebClient/blob/master/install.sh <br>
+Step 3. Type ./install.sh <br>
+Step 4. Let the script do its thing and you're set.<br>
 
 # Manual Setup with FileZila
 Step 1. Download Install.sh
