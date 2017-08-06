@@ -1,6 +1,6 @@
 # Simple SSH Web Client
-Simple SSH Web Client for your Wifi Pineapple
-Note: Make sure prior you have internet sharing setup or make sure to have your Wifi Client Mode Connected to a client with Internet.
+Simple SSH Web Client for your Wifi Pineapple<br>
+Note: Make sure prior you have internet sharing setup or make sure to have your Wifi Client Mode Connected to a client with Internet.<br>
 
 # Manual Setup with SSH
 
