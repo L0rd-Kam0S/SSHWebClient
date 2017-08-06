@@ -10,9 +10,9 @@ Step 3. Type ./install.sh <br>
 Step 4. Let the script do its thing and you're set.<br>
 
 # Manual Setup with FileZila
-Step 1. Download Install.sh
-Step 2. Connect to your Nano/Tetra with Filezila
-Step 3. Upload Install.sh into root home folder
-Step 4. Connect to your Nano/Tetra via SSH
-Step 5. Once in root folder type ./install.sh
-Step 6. Let the script do its thing and you're set.
+Step 1. Download Install.sh<br>
+Step 2. Connect to your Nano/Tetra with Filezila<br>
+Step 3. Upload Install.sh into root home folder<br>
+Step 4. Connect to your Nano/Tetra via SSH<br>
+Step 5. Once in root folder type ./install.sh<br>
+Step 6. Let the script do its thing and you're set.<br>
